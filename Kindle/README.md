@@ -3,7 +3,7 @@
 ## 1984
 ### 豆瓣评分 9.3
 
-<img src = "https://github.com/seekincs/e-Books/blob/master/Kindle/asserts/1984.jpg">
+<img src = "https://github.com/seekincs/e-Books/blob/master/Kindle/asserts/1984.jpg"/>
 ### 内容简介
 ★村上春树以《1Q84》向本书致敬
 
