@@ -34,7 +34,7 @@
 1950年，因肺病去世，年仅47岁。
 
 
-## 1Q84
+## [1Q84](https://github.com/seekincs/e-Books/blob/master/Kindle/1Q84(%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C).azw3)
 
 ### 豆瓣评分 8.1
 
