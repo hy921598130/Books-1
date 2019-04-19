@@ -3,6 +3,7 @@
 ## C专家编程
 ### 豆瓣评分 9.2
 
+<img src = "https://github.com/seekincs/e-Books/blob/master/Programming/C/asserts/Expert_C_Programming.jpg"/>
 
 ### 内容简介
 《C专家编程》展示了最优秀的C程序员所使用的编码技巧，并专门开辟了一章对C++的基础知识进行了介绍。
