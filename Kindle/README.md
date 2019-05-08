@@ -55,4 +55,8 @@
 
 作品中譯本至《1Q84》今已有50本。
 
+## 3D
+
+<img src = "https://github.com/seekincs/e-Books/blob/master/Kindle/asserts/3d.jpg"/>
+
 
